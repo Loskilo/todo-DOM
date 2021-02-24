@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+
+#name{
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 90;
+}
+body {
+    background-color: aqua;
+    opacity: 1;
+}
